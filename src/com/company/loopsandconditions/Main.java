@@ -1,4 +1,4 @@
-package com.company;
+package com.company.loopsandconditions;
 
 import java.time.LocalDateTime;
 import java.time.temporal.ChronoField;
